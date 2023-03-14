@@ -18,7 +18,7 @@
 <h5>Capítulo 3: Estructura secuencial</h5>
 <li>Carpeta "Parte1.1" - Ejercicios propuestos: 18,19,21</li>
 <h5>Capítulo 4: Estructura decisión lógica </h5>
-<li>Carpeta "Parte1.1" - Ejercicios resueltos: 7,10</li>
+<li>Carpeta "Parte1.2" - Ejercicios resueltos: 7,10</li>
 <li>Carpeta "Parte1.2" - Ejercicios resueltos: 11,12,13,14,15</li>
 <li>Carpeta "Parte1.3" - Ejercicios propuestos: 22, 23,24</li>
 <h4> Parte 2: “clases sobre figuras geométricas” </h4>
