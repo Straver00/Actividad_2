@@ -8,7 +8,7 @@ public class Ejercicio_11 {
         n1 = teclado.nextInt();
         n2 = teclado.nextInt();
         n3 = teclado.nextInt();
-        if((n1 > n2) & (n1 > 3)){
+        if((n1 > n2) & (n1 > n3)){
             mayor = n1;
         }else if(n2>n3){
             mayor = n2;
