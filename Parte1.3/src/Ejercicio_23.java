@@ -13,6 +13,6 @@ public class Ejercicio_23 {
         sol1 =  (-b + Math.sqrt((Math.pow(b, 2) - 4 * a * c)) )/(2 * a);
         System.out.println("Solución 1: " + sol1);
         sol2 = (-b - Math.sqrt(Math.pow(b, 2) - 4 * a * c) )/ (2 * a);
-        System.out.println("Solución 1: " + sol2);
+        System.out.println("Solución 2: " + sol2);
     }
 }
